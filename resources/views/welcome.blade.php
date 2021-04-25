@@ -40,7 +40,8 @@
                         <li><i class="icofont-check-circled"></i> Transparency and Perfection</li>
                         which are the values with which we work towards achieving our vision as we strive towards
                         perfection.
-                    </ul></p>
+                    </ul>
+                    </p>
                     </br>
                     <p style="text-align: justify; font-size: 0.9rem !important">
                         <strong>D-Fire Works Computers</strong> is a privately owned company established and registered
@@ -79,8 +80,9 @@
                         <span>
                             <h4>What we offer!</h4>
                         </span>
-                        <p><i class="icofont-check-circled"> IT Solutions (Research, <br/> &nbsp; &nbsp; Review & Documentation)</i>
-                            <i class="icofont-check-circled"> Sales & Delivery</i> 
+                        <p><i class="icofont-check-circled"> IT Solutions (Research, <br /> &nbsp; &nbsp; Review &
+                                Documentation)</i>
+                            <i class="icofont-check-circled"> Sales & Delivery</i>
                             <i class="icofont-check-circled"> Mobile Accessories</i>
                             <i class="icofont-check-circled"> Repairs & Maintenance (Software/Hardware)</i>
                             <i class="icofont-check-circled"> Gadgets Unlock</i>
@@ -94,13 +96,14 @@
                         </p>
                     </div>
                 </div>
-                
+
                 <div class="col-lg-4 mt-4 mt-lg-0" data-aos="fade-up" data-aos-delay="300">
                     <div class="box">
                         <span>
                             <h4> What you stand to gain!</h4>
                         </span>
-                        <p style="text-align: justify;">* All your software/hardware preference will be delivered to you in
+                        <p style="text-align: justify;">* All your software/hardware preference will be delivered to you
+                            in
                             real-time.<br />
                             * No problems with software development, graphics, unlocks, repairs and maintenace as well
                             as installations of IT gadgets.<br />*
@@ -222,7 +225,8 @@
 
             <div class="text-center">
                 <h3>Our Passion Is Your Fulfilment</h3>
-                <p> What you need is what matters most to us. We care about your satisfaction, </br>and our goal is to make
+                <p> What you need is what matters most to us. We care about your satisfaction, </br>and our goal is to
+                    make
                     all your IT fantasies become a reality.</p>
                 <a class="cta-btn" href="/contact">Contact Us</a>
             </div>
@@ -400,7 +404,7 @@
                         <img src="assets/img/team/douglas.jpg" alt="Chief Executive Officer/Director">
                         <h4>Aliakor .C. Douglas</h4>
                         <span>Director & CEO</span>
-                        <p style="justify-content">
+                        <p>
                             His nine(9) years hands-on-lab experience in the field of IT, stands<br /> Douglas in good
                             stead to establish DFW computers.<br />
                             Meet Douglas:

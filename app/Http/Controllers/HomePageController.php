@@ -4,6 +4,7 @@ namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
 use App\ContactUs;
+use App\Blog;
 use Mail;
 
 class HomePageController extends Controller
@@ -12,6 +13,7 @@ class HomePageController extends Controller
     {
         return view('welcome');
     }
+
     public function contact()
     {
         return view('contact');
@@ -56,5 +58,11 @@ class HomePageController extends Controller
         session()->flash('success_report', 'Form Submitted Successfully');
         /** Return back to contact us page */
         return back();
+    }
+
+    public function blog()
+    {
+        $blogs = Blog::all();
+        return view ('blog')->with('blogs' , $blogs);
     }
 }

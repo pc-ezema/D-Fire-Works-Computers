@@ -16,3 +16,4 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', 'HomePageController@home');
 Route::get('/contact', 'HomePageController@contact');
 Route::post('/contact_us', 'HomePageController@contact_us');
+Route::get('/blog', 'HomePageController@blog');

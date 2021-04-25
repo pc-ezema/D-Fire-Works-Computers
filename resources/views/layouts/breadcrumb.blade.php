@@ -4,8 +4,8 @@
 
         <ol>
             <li><a href="/">Home</a></li>
-            <li>Contact Us</li>
+            <li>{{ $title }}</li>
         </ol>
-        <h2>Contact DFW</h2>
+        <h2>{{ $subtitle }}</h2>
     </div>
 </section><!-- End Breadcrumbs -->
