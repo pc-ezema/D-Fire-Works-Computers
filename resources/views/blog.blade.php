@@ -34,7 +34,7 @@
                                         <span><a>{{ $blogs->category }}</a></span>
                                     </div>
                                     <div>
-                                        <img src="{{ $blogs->b_img }}" class="img-fluid"style="margin-bottom: 1.2rem;" width="720px" height="350px" alt="blog1" /> 
+                                        <img src="{{ $blogs->b_img }}" class="img-fluid"style="margin-bottom: 1.2rem;" width="720px" height="350px"/> 
                                     </div>
                                     <header class="entry-header">
                                         <h2 class="entry-title"><a>{{ $blogs->title }}</a></h2>

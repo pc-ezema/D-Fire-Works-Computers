@@ -170,6 +170,7 @@ return [
         Illuminate\Validation\ValidationServiceProvider::class,
         Illuminate\View\ViewServiceProvider::class,
         Anhskohbo\NoCaptcha\NoCaptchaServiceProvider::class,
+        Ejarnutowski\LaravelApiKey\Providers\ApiKeyServiceProvider::class,
 
         /*
          * Package Service Providers...
