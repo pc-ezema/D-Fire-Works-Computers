@@ -20,14 +20,14 @@
                     <img src="assets/img/aboutDfw.jpg" class="img-fluid img-side" alt="">
                 </div>
                 <div class="col-lg-6 pt-4 pt-lg-0 order-2 order-lg-1 content" data-aos="fade-right">
-                    <h3>Our Vission</h3>
+                    <h3>Our Vision</h3>
                     <p>
-                        To become the technological front in West Africa that will serve as an epicenter solution to all
+                        To become the technological front in Nigeria that will serve as an epicenter solution to all
                         IT problems.
                     </p>
                     <h3>Our Mission</h3>
                     <p>
-                        To be the preferred strategic IT firm that will deliver real-time technological solutions to
+                        To be the preferred strategic IT firm in Nigeria that will deliver real-time technological solutions to
                         clients, through excellent customer service and collaboration.
                     </p>
                     <h3>Our Core Values</h3>
@@ -165,51 +165,65 @@
             <div class="row">
                 <div class="col-lg-4 col-md-6 d-flex align-items-stretch" data-aos="fade-up">
                     <div class="icon-box">
-                        <div class="icon"><i class="bx bxl-dribbble"></i></div>
-                        <h4><a href="">Lorem Ipsum</a></h4>
-                        <p>Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi</p>
-                    </div>
+                        <div class="icon-1"></div>
+                        <h4><a href="">IT Solutions (RRD)</a></h4>
+                        <p>D-Fire Works Computers will guide you through your research works. We are able to narrow down
+                            our broad tasks to helping you out in your project's conceptualization to its documentation </p><br/>
+                      <a href ="service-page.html"><p style = "color:red">Read More...</p></a>
+                </div>
                 </div>
 
                 <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="fade-up"
                     data-aos-delay="150">
                     <div class="icon-box">
-                        <div class="icon"><i class="bx bx-file"></i></div>
-                        <h4><a href="">Sed ut perspiciatis</a></h4>
-                        <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore</p>
+                        <div class="icon-2"></div>
+                        <h4><a href="">Sales & Delivery</a></h4>
+                        <p>We sell our gadgets to you at discounted and affordable prices and make sure that they are 
+                            delivered to your doorsteps in real-time and at your request. 
+                        </p><br/>
+                        <a href ="service-page.html"><p style = "color:red">Shop now...</p></a>
                     </div>
                 </div>
 
                 <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-lg-0" data-aos="fade-up"
                     data-aos-delay="300">
                     <div class="icon-box">
-                        <div class="icon"><i class="bx bx-tachometer"></i></div>
-                        <h4><a href="">Magni Dolores</a></h4>
-                        <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia</p>
+                        <div class="icon-3"></div>
+                        <h4><a href="">Repairs & Maintenance</a></h4>
+                        <p>Do you have problems with your gadgets? Are you having problems working out your software configuration fix or installations? DFW Computers
+                            will grant you the best solution to all your hardware/software problems </p><br/>
+                            <a href ="service-page.html"><p style = "color:red">Read More...</p></a>  
                     </div>
                 </div>
 
                 <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4" data-aos="fade-up" data-aos-delay="450">
                     <div class="icon-box">
-                        <div class="icon"><i class="bx bx-world"></i></div>
-                        <h4><a href="">Nemo Enim</a></h4>
-                        <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis</p>
+                        <div class="icon-4"></div>
+                        <h4><a href="">Gadgets Unlock</a></h4>
+                        <p>Coupled with the fact that we fix and maintain your (hardware/software) gadgets , we can also perform all unlocks and system flash thereby enabling you to easily gain access 
+                            to your software products
+                        </p><br/>
+                        <a href ="service-page.html"><p style = "color:red">Read More...</p></a> 
                     </div>
                 </div>
 
                 <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4" data-aos="fade-up" data-aos-delay="600">
                     <div class="icon-box">
-                        <div class="icon"><i class="bx bx-slideshow"></i></div>
-                        <h4><a href="">Dele cardo</a></h4>
-                        <p>Quis consequatur saepe eligendi voluptatem consequatur dolor consequuntur</p>
+                        <div class="icon-5"></div>
+                        <h4><a href="">Software Development</a></h4>
+                        <p>These stages are planning, analysis, design, implementation/development, testing/integration, and maintenance. By following this progression of stages, D-Fire Works Computers can develop software in a predictable and manageable way that 
+                            will suit the needs of our end-users.</p><br/>
+                            <a href ="service-page.html"><p style = "color:red">Read More...</p></a> 
                     </div>
                 </div>
 
                 <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4" data-aos="fade-up" data-aos-delay="750">
                     <div class="icon-box">
-                        <div class="icon"><i class="bx bx-arch"></i></div>
-                        <h4><a href="">Divera don</a></h4>
-                        <p>Modi nostrum vel laborum. Porro fugit error sit minus sapiente sit aspernatur</p>
+                        <div class="icon-6"></div>
+                        <h4><a href="">Others</a></h4>
+                        <p>other services include Programming, Graphics Design, Web Development Services, Animation Services, 3D Design, Image Editing, Content Creation,
+                            Project Management, etc. </p><br/>
+                        <a href ="service-page.html"><p style = "color:red">Read More...</p></a> 
                     </div>
 
                 </div>
