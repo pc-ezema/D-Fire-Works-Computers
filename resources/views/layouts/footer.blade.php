@@ -63,14 +63,13 @@
             </div>
         </div>
 
-        <div class="container">
-            <div class="copyright">
-                &copy; Copyright;2021 <strong><span>{{ config ('app.name') }}</span></strong>. All Rights Reserved
-            </div>
-            <div class="credits">
-                <!-- All the links in the footer should remain intact. -->
-                Designed by: <a href="https://www.github.com/ndjest">Christian Odigbo -- Software Developer, <span
-                        style="color:white">DFW Computers</span></a>
-            </div>
-        </div>
-</footer><!-- End Footer -->
+    <div class="container">
+      <div class="copyright">
+        &copy; Copyright;2021 <strong><span>{{ config ('app.name') }}</span></strong>. All Rights Reserved
+      </div>
+      <div class="credits">
+        <!-- All the links in the footer should remain intact. -->
+        Designed by : <a href="https://www.github.com/ndjest"> <span style ="color:#6c757d;">Christian Odigbo</span></a> & <a href="https://www.github.com/pc-ezema"><span style ="color:#6c757d;">Promise Ezema</span></a> <span style="color:white">--- Software Developers, DFW Computers</span>
+      </div>
+    </div>
+  </footer><!-- End Footer -->
