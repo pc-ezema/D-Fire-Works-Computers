@@ -1203,6 +1203,8 @@ section {
 
 .portfolio-details .portfolio-description {
   padding-top: 50px;
+  padding-left: 30px;
+  padding-right: 30px;
 }
 
 .portfolio-details .portfolio-description h2 {
@@ -1291,7 +1293,7 @@ section {
   font-weight: 600;
   color: #fff;
   position: relative;
-  padding-bottom: 12px;
+  padding-top: 1.5rem;
 }
 
 #footer .footer-top .footer-links {
@@ -1628,10 +1630,10 @@ div.widget-area {
   height: 38px;
   width: 50px;
   text-align: center;
-  line-height: 50px;
-  background-color: #000;
+  line-height: 40px;
   /* border: 1px solid #000; */
   background-color: #cc1616;
+  color: #fff;
 }
 .widget .widget-title {
   position: relative;
@@ -1680,13 +1682,11 @@ div.widget-area {
   position: relative;
   font-weight: 400;
 }
-.widget-categories ul li a:before {
-  font-family: "themify";
-  content: "\e61a";
+.widget-categories ul li a i:before {
   position: absolute;
   top: 2px;
   left: 0;
-  line-height: 16PX;
+  line-height: 20PX;
   font-size: 13px;
 }
 .widget-categories ul li span {

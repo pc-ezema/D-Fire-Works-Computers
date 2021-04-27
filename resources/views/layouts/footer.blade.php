@@ -39,6 +39,7 @@
                                 (Software/Hardware)</a></li>
                         <li><i class="bx bx-chevron-right"></i> <a href="/#services">Installations</a></li>
                         <li><i class="bx bx-chevron-right"></i> <a href="/#services">Gadgets Unlock</a></li>
+                        <li><i class="bx bx-chevron-right"></i> <a href="/#services">Project Management</a></li>
 
                     </ul>
                 </div>
@@ -46,13 +47,18 @@
                 <div class="col-lg-3 col-md-6 footer-links">
                     <h4>More Services</h4>
                     <ul>
-                        <li><i class="bx bx-chevron-right"></i> <a href="/#services">Project Management</a></li>
                         <li><i class="bx bx-chevron-right"></i> <a href="/#services">Web Development</a></li>
                         <li><i class="bx bx-chevron-right"></i> <a href="/#services">Animation</a></li>
-                        <li><i class="bx bx-chevron-right"></i> <a href="/#services">Graphics Design/Image Editing</a>
-                        </li>
+                        <li><i class="bx bx-chevron-right"></i> <a href="/#services">Graphics Design/Image Editing</a></li>
                         <li><i class="bx bx-chevron-right"></i> <a href="/#services">Software Development</a></li>
                     </ul>
+                    <div class="footer-newsletter">
+                        <h4>Our Newsletter</h4>
+                        <!-- <p>Get updated about new trends, top deals, news, offers and quick solutions</p> -->
+                        <form action="" method="post">
+                        <input type="email" name="email" placeholder="Enter Email Here:"><input type="submit" value="Subscribe">
+                        </form>
+                    </div>
                 </div>
             </div>
         </div>

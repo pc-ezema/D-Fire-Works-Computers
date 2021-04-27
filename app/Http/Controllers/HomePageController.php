@@ -65,4 +65,9 @@ class HomePageController extends Controller
         $blogs = Blog::all();
         return view ('blog')->with('blogs' , $blogs);
     }
+
+    public function portfolio_details()
+    {
+        return view('portfoliodetails');
+    }
 }

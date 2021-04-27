@@ -264,7 +264,7 @@
                         <p>Gadget</p>
                         <a href="assets/img/portfolio/gadget-1.jpg" data-gall="portfolioGallery"
                             class="venobox preview-link" title="Gadget|DFW"><i class="bx bx-plus"></i></a>
-                        <a href="portfolio-details.html" class="details-link" title="View more"><i
+                        <a href="/portfolio-details" class="details-link" title="View more"><i
                                 class="bx bx-link"></i></a>
                     </div>
                 </div>
@@ -276,7 +276,7 @@
                         <p>Technology</p>
                         <a href="assets/img/portfolio/technology_3.jpg" data-gall="portfolioGallery"
                             class="venobox preview-link" title="Technology|DFW"><i class="bx bx-plus"></i></a>
-                        <a href="portfolio-details.html" class="details-link" title="View more"><i
+                        <a href="/portfolio-details" class="details-link" title="View more"><i
                                 class="bx bx-link"></i></a>
                     </div>
                 </div>
@@ -288,7 +288,7 @@
                         <p>Gadget</p>
                         <a href="assets/img/portfolio/gadget-2.jpg" data-gall="portfolioGallery"
                             class="venobox preview-link" title="Gadget|DFW"><i class="bx bx-plus"></i></a>
-                        <a href="portfolio-details.html" class="details-link" title="View more"><i
+                        <a href="/portfolio-details" class="details-link" title="View more"><i
                                 class="bx bx-link"></i></a>
                     </div>
                 </div>
@@ -300,7 +300,7 @@
                         <p>Graphics</p>
                         <a href="assets/img/portfolio/graphics1.jpg" data-gall="portfolioGallery"
                             class="venobox preview-link" title="Graphics|DFW"><i class="bx bx-plus"></i></a>
-                        <a href="portfolio-details.html" class="details-link" title="View more"><i
+                        <a href="/portfolio-details" class="details-link" title="View more"><i
                                 class="bx bx-link"></i></a>
                     </div>
                 </div>
@@ -312,7 +312,7 @@
                         <p>Technology</p>
                         <a href="assets/img/portfolio/portfolio-5.jpg" data-gall="portfolioGallery"
                             class="venobox preview-link" title="Technology|DFW"><i class="bx bx-plus"></i></a>
-                        <a href="portfolio-details.html" class="details-link" title="View more"><i
+                        <a href="/portfolio-details" class="details-link" title="View more"><i
                                 class="bx bx-link"></i></a>
                     </div>
                 </div>
@@ -324,7 +324,7 @@
                         <p>Gadget</p>
                         <a href="assets/img/portfolio/gadget-3.jpg" data-gall="portfolioGallery"
                             class="venobox preview-link" title="Gadget|DFW"><i class="bx bx-plus"></i></a>
-                        <a href="portfolio-details.html" class="details-link" title="View more"><i
+                        <a href="/portfolio-details" class="details-link" title="View more"><i
                                 class="bx bx-link"></i></a>
                     </div>
                 </div>
@@ -336,7 +336,7 @@
                         <p>Graphics</p>
                         <a href="assets/img/portfolio/graphics2.jpg" data-gall="portfolioGallery"
                             class="venobox preview-link" title="Graphics|DFW"><i class="bx bx-plus"></i></a>
-                        <a href="portfolio-details.html" class="details-link" title="View more"><i
+                        <a href="/portfolio-details" class="details-link" title="View more"><i
                                 class="bx bx-link"></i></a>
                     </div>
                 </div>
@@ -348,7 +348,7 @@
                         <p>Graphics</p>
                         <a href="assets/img/portfolio/graphics3_1.jpg" data-gall="portfolioGallery"
                             class="venobox preview-link" title="Graphics|DFW"><i class="bx bx-plus"></i></a>
-                        <a href="portfolio-details.html" class="details-link" title="View more"><i
+                        <a href="/portfolio-details" class="details-link" title="View more"><i
                                 class="bx bx-link"></i></a>
                     </div>
                 </div>
@@ -360,7 +360,7 @@
                         <p>Technology</p>
                         <a href="assets/img/portfolio/technology_1.jpg" data-gall="portfolioGallery"
                             class="venobox preview-link" title="Technology|DFW"><i class="bx bx-plus"></i></a>
-                        <a href="portfolio-details.html" class="details-link" title="View more"><i
+                        <a href="/portfolio-details" class="details-link" title="View more"><i
                                 class="bx bx-link"></i></a>
                     </div>
                 </div>

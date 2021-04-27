@@ -41,10 +41,10 @@
                                     </header>
                                     <div class="ttm-post-entry-header">
                                         <div class="post-meta">
-                                            <span class="ttm-meta-line byline">{{ $blogs->b_by_who }}</span>
-                                            <span class="ttm-meta-line entry-date"><i class="fa fa-calendar"></i><time
+                                            <span class="ttm-meta-line byline"><i class="icofont-user"></i>{{ $blogs->b_by_who }}</span>
+                                            <span class="ttm-meta-line entry-date"><i class="icofont-calendar"></i><time
                                                     class="entry-date published" datetime="2018-07-28T00:39:29+00:00">{{ $blogs->created_at }}</time></span>
-                                            <span class="ttm-meta-line tags-links"><i class="fa fa-comment-o"></i>{{ $blogs->comment_id }} Comments</span>
+                                            <span class="ttm-meta-line tags-links"><i class="icofont-comment"></i>{{ $blogs->comment_id }} Comments</span>
                                         </div>
                                     </div>
                                     <div class="ttm-box-desc-text">
@@ -67,18 +67,18 @@
                         <form role="search" method="get" class="search-form" action="#">
                             <div class="form-group">
                                 <input name="search" type="text" class="form-control with-border" placeholder="Search....">
-                                <i class="fa fa-search"></i>
+                                <i class="icofont-search"></i>
                             </div>
                         </form>
                     </aside>
                     <aside class="widget widget-categories">
                         <h3 class="widget-title">Categories</h3>
                         <ul>
-                            <li><a href="#">Dairy Farm</a><span>4</span></li>
-                            <li><a href="#">Flower</a><span>2</span></li>
-                            <li><a href="#">Gardening</a><span>1</span></li>
-                            <li><a href="#">Tips &amp; Tricks</a><span>4</span></li>
-                            <li><a href="#">Watering Plants</a><span>2</span></li>
+                            <li><a href="#"><i class="icofont-check-circled"></i>Dairy Farm</a><span>4</span></li>
+                            <li><a href="#"><i class="icofont-check-circled"></i> Flower</a><span>2</span></li>
+                            <li><a href="#"><i class="icofont-check-circled"></i>Gardening</a><span>1</span></li>
+                            <li><a href="#"><i class="icofont-check-circled"></i>Tips &amp; Tricks</a><span>4</span></li>
+                            <li><a href="#"><i class="icofont-check-circled"></i>Watering Plants</a><span>2</span></li>
                         </ul>
                     </aside>
                 </div>
