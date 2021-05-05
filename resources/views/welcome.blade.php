@@ -173,15 +173,14 @@
                 </div>
                 </div>
 
-                <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="fade-up"
-                    data-aos-delay="150">
+                <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-lg-0" data-aos="fade-up" data-aos-delay="450">
                     <div class="icon-box">
-                        <div class="icon-2"></div>
-                        <h4><a href="">Sales & Delivery</a></h4>
-                        <p>We sell our gadgets to you at discounted and affordable prices and make sure that they are 
-                            delivered to your doorsteps in real-time and at your request. 
+                        <div class="icon-4"></div>
+                        <h4><a href="">Gadgets Unlock</a></h4>
+                        <p>Coupled with the fact that we fix and maintain your (hardware/software) gadgets , we can also perform all unlocks and system flash thereby enabling you to easily gain access 
+                            to your software products
                         </p><br/>
-                        <a href ="service-page.html"><p style = "color:red">Shop now...</p></a>
+                        <a href ="service-page.html"><p style = "color:red">Read More...</p></a> 
                     </div>
                 </div>
 
@@ -196,14 +195,15 @@
                     </div>
                 </div>
 
-                <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4" data-aos="fade-up" data-aos-delay="450">
+                <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4" data-aos="fade-up"
+                    data-aos-delay="150">
                     <div class="icon-box">
-                        <div class="icon-4"></div>
-                        <h4><a href="">Gadgets Unlock</a></h4>
-                        <p>Coupled with the fact that we fix and maintain your (hardware/software) gadgets , we can also perform all unlocks and system flash thereby enabling you to easily gain access 
-                            to your software products
+                        <div class="icon-2"></div>
+                        <h4><a href="">Sales & Delivery</a></h4>
+                        <p>We sell our gadgets to you at discounted and affordable prices and make sure that they are 
+                            delivered to your doorsteps in real-time and at your request. 
                         </p><br/>
-                        <a href ="service-page.html"><p style = "color:red">Read More...</p></a> 
+                        <a href ="service-page.html"><p style = "color:red">Shop now...</p></a>
                     </div>
                 </div>
 

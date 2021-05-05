@@ -18,3 +18,4 @@ Route::get('/contact', 'HomePageController@contact');
 Route::post('/contact_us', 'HomePageController@contact_us');
 Route::get('/blog', 'HomePageController@blog');
 Route::get('/portfolio-details', 'HomePageController@portfolio_details');
+Route::get('/faq', 'HomePageController@faq');

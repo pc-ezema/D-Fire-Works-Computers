@@ -70,4 +70,9 @@ class HomePageController extends Controller
     {
         return view('portfoliodetails');
     }
+
+    public function faq()
+    {
+        return view('faq');
+    }
 }
