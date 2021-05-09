@@ -19,7 +19,7 @@
 
             <div class="section-title">
                 <span>Welcome to our Blog</span>
-                <h2>Blog</h2>
+                <h2>Our Blog</h2>
                 <p>Stay updated with our lastest information and news.</p>
             </div>
 
@@ -74,11 +74,20 @@
                     <aside class="widget widget-categories">
                         <h3 class="widget-title">Categories</h3>
                         <ul>
+<<<<<<< HEAD
                             <li><a href="#"><i class="icofont-check-circled"></i>Dairy Farm</a><span>4</span></li>
                             <li><a href="#"><i class="icofont-check-circled"></i> Flower</a><span>2</span></li>
                             <li><a href="#"><i class="icofont-check-circled"></i>Gardening</a><span>1</span></li>
                             <li><a href="#"><i class="icofont-check-circled"></i>Tips &amp; Tricks</a><span>4</span></li>
                             <li><a href="#"><i class="icofont-check-circled"></i>Watering Plants</a><span>2</span></li>
+=======
+                            <li><a href="#">IT Solution</a><span>4</span></li>
+                            <li><a href="#">Sales</a><span>2</span></li>
+                            <li><a href="#">Repairs</a><span>1</span></li>
+                            <li><a href="#">Gadgets Unlock</a><span>2</span></li>
+                            <li><a href="#">Tips &amp; Tricks</a><span>4</span></li>
+                            
+>>>>>>> bd0bd27 (new-files)
                         </ul>
                     </aside>
                 </div>

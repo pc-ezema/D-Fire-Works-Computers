@@ -22,7 +22,7 @@
                 <div class="col-lg-6 pt-4 pt-lg-0 order-2 order-lg-1 content" data-aos="fade-right">
                     <h3>Our Vision</h3>
                     <p>
-                        To become the technological front in Nigeria that will serve as an epicenter solution to all
+                        To become the technological front in Nigeria that will serve as an epicenter solution for end-users
                         IT problems.
                     </p>
                     <h3>Our Mission</h3>
@@ -169,7 +169,7 @@
                         <h4><a href="">IT Solutions (RRD)</a></h4>
                         <p>D-Fire Works Computers will guide you through your research works. We are able to narrow down
                             our broad tasks to helping you out in your project's conceptualization to its documentation </p><br/>
-                      <a href ="service-page.html"><p style = "color:red">Read More...</p></a>
+                      <a href ="/service-page-ITsolutions"><p style = "color:red">Read More...</p></a>
                 </div>
                 </div>
 
@@ -191,7 +191,7 @@
                         <h4><a href="">Repairs & Maintenance</a></h4>
                         <p>Do you have problems with your gadgets? Are you having problems working out your software configuration fix or installations? DFW Computers
                             will grant you the best solution to all your hardware/software problems </p><br/>
-                            <a href ="service-page.html"><p style = "color:red">Read More...</p></a>  
+                            <a href ="/service-page-repairs"><p style = "color:red">Read More...</p></a>  
                     </div>
                 </div>
 
@@ -203,7 +203,11 @@
                         <p>We sell our gadgets to you at discounted and affordable prices and make sure that they are 
                             delivered to your doorsteps in real-time and at your request. 
                         </p><br/>
+<<<<<<< HEAD
                         <a href ="service-page.html"><p style = "color:red">Shop now...</p></a>
+=======
+                        <a href ="/service-page-gadgets"><p style = "color:red">Read More...</p></a> 
+>>>>>>> bd0bd27 (new-files)
                     </div>
                 </div>
 
@@ -213,7 +217,7 @@
                         <h4><a href="">Software Development</a></h4>
                         <p>These stages are planning, analysis, design, implementation/development, testing/integration, and maintenance. By following this progression of stages, D-Fire Works Computers can develop software in a predictable and manageable way that 
                             will suit the needs of our end-users.</p><br/>
-                            <a href ="service-page.html"><p style = "color:red">Read More...</p></a> 
+                            <a href ="/service-page-software"><p style = "color:red">Read More...</p></a> 
                     </div>
                 </div>
 
@@ -223,7 +227,7 @@
                         <h4><a href="">Others</a></h4>
                         <p>other services include Programming, Graphics Design, Web Development Services, Animation Services, 3D Design, Image Editing, Content Creation,
                             Project Management, etc. </p><br/>
-                        <a href ="service-page.html"><p style = "color:red">Read More...</p></a> 
+                        <a href ="/service-page-others"><p style = "color:red">Read More...</p></a> 
                     </div>
 
                 </div>
@@ -308,11 +312,11 @@
                 </div>
 
                 <div class="col-lg-4 col-md-6 portfolio-item filter-graphics">
-                    <img src="assets/img/portfolio/graphics1.jpg" class="img-fluid" alt="">
+                    <img src="assets/img/portfolio/graphic1.png" class="img-fluid" alt="">
                     <div class="portfolio-info">
                         <h4>Graphics 1</h4>
                         <p>Graphics</p>
-                        <a href="assets/img/portfolio/graphics1.jpg" data-gall="portfolioGallery"
+                        <a href="assets/img/portfolio/graphic1.png" data-gall="portfolioGallery"
                             class="venobox preview-link" title="Graphics|DFW"><i class="bx bx-plus"></i></a>
                         <a href="/portfolio-details" class="details-link" title="View more"><i
                                 class="bx bx-link"></i></a>
@@ -395,6 +399,25 @@
             </div>
 
             <div class="row">
+           
+            <div class="col-lg-6 col-md-6 d-flex align-items-stretch" data-aos="zoom-in">
+                    <div class="member">
+                        <img src="assets/img/team/douglas.jpg" alt="Chief Executive Officer/Director">
+                        <h4>Aliakor .C. Douglas</h4>
+                        <span>Director & CEO</span>
+                        <p>
+                            His nine(9) years hands-on-lab experience in the field of IT, stands<br /> Douglas in good
+                            stead to establish DFW computers.<br />
+                            Meet Douglas:
+                        </p>
+                        <div class="social">
+                            <a href=""><i class="icofont-twitter"></i></a>
+                            <a href=""><i class="icofont-facebook"></i></a>
+                            <a href=""><i class="icofont-instagram"></i></a>
+                            <a href=""><i class="icofont-linkedin"></i></a>
+                        </div>
+                    </div>
+                </div>
                 <div class="col-lg-6 col-md-6 d-flex align-items-stretch" data-aos="zoom-in">
                     <div class="member">
                         <img src="assets/img/team/christian.jpg" alt="Chief Technical Officer">
@@ -413,24 +436,7 @@
                     </div>
                 </div>
 
-                <div class="col-lg-6 col-md-6 d-flex align-items-stretch" data-aos="zoom-in">
-                    <div class="member">
-                        <img src="assets/img/team/douglas.jpg" alt="Chief Executive Officer/Director">
-                        <h4>Aliakor .C. Douglas</h4>
-                        <span>Director & CEO</span>
-                        <p>
-                            His nine(9) years hands-on-lab experience in the field of IT, stands<br /> Douglas in good
-                            stead to establish DFW computers.<br />
-                            Meet Douglas:
-                        </p>
-                        <div class="social">
-                            <a href=""><i class="icofont-twitter"></i></a>
-                            <a href=""><i class="icofont-facebook"></i></a>
-                            <a href=""><i class="icofont-instagram"></i></a>
-                            <a href=""><i class="icofont-linkedin"></i></a>
-                        </div>
-                    </div>
-                </div>
+              
 
             </div>
 
