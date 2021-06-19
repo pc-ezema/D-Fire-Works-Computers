@@ -24,7 +24,7 @@
           </div>
           <div class="col-lg-6 pt-4 pt-lg-0" data-aos="fade-left" data-aos-delay="200">
             <p style="text-align:justify">
-              <strong>Hints:</strong><br/>
+              <strong><span style="font-size:1.4em">Hints:</span></strong><br/>
 				If you don’t have a phone yet, you may consider buying an unlocked phone directly from the manufacturer.
 				Unfortunately, you’ll pay full ticket price. For example, when you go to the Apple Store and buy an iPhone,
 				you will have the option to make your phone AT&T, Verizon, T-Mobile, Sprint, or SIM free. 
@@ -45,7 +45,7 @@
 				Enter the necessary information, and D-Fire Works Computers will email you the necessary steps to follow to unlock your gadget.
 				We also provide step-by-step directions and a money-back guarantee. 
 			 </p><br/>
-			<p><strong>Advantages of Having an Unlocked Gadget</strong><br/></p>
+			<p><strong><span style="font-size:1.4em">Advantages of Having an Unlocked Gadget</span></strong><br/></p>
             <ul>
               <li style="text-align:justify"><i class="ri-check-double-line"></i> <u><strong>You can switch your carrier</strong></u>: Is your current carrier gouging you with unexpected fees? 
 			  Did you find a better deal at another company? With an unlocked phone, you are free to change your carrier anytime you like. </li>

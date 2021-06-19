@@ -22,7 +22,7 @@
                 <div class="col-lg-6 pt-4 pt-lg-0 order-2 order-lg-1 content" data-aos="fade-right">
                     <h3>Our Vision</h3>
                     <p>
-                        To become the technological front in Nigeria that will serve as an epicenter solution for end-users
+                        To become the technological front in Nigeria that will serve as an epicenter solution to end-users
                         IT problems.
                     </p>
                     <h3>Our Mission</h3>
@@ -44,7 +44,7 @@
                     </p>
                     </br>
                     <p style="text-align: justify; font-size: 0.9rem !important">
-                        <strong>D-Fire Works Computers</strong> is a privately owned company established and registered
+                        <strong>D-Fireworks Computers</strong> is a privately owned company established and registered
                         with the Corporate Affairs Commission (CAC)---<mark>BN:3251155</mark> in November,2020.
                         It was borne out of passion from the founder (Mr. Aliakor .C. Douglas) to profer real-time
                         solution to the continously evolving technological difficulties encountered in the world of IT,
@@ -180,7 +180,7 @@
                         <p>Coupled with the fact that we fix and maintain your (hardware/software) gadgets , we can also perform all unlocks and system flash thereby enabling you to easily gain access 
                             to your software products
                         </p><br/>
-                        <a href ="service-page.html"><p style = "color:red">Read More...</p></a> 
+                        <a href ="/service-page-gadgets"><p style = "color:red">Read More...</p></a> 
                     </div>
                 </div>
 
@@ -203,11 +203,7 @@
                         <p>We sell our gadgets to you at discounted and affordable prices and make sure that they are 
                             delivered to your doorsteps in real-time and at your request. 
                         </p><br/>
-<<<<<<< HEAD
-                        <a href ="service-page.html"><p style = "color:red">Shop now...</p></a>
-=======
-                        <a href ="/service-page-gadgets"><p style = "color:red">Read More...</p></a> 
->>>>>>> bd0bd27 (new-files)
+                        <a href ="#"><p style = "color:red">Shop now...</p></a> 
                     </div>
                 </div>
 

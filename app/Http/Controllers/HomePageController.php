@@ -67,9 +67,9 @@ class HomePageController extends Controller
     }
     public function service_page_gadgets()
     {
-        
         return view ('service-page-gadgets');
     }
+    
     public function service_page_ITsolutions()
     {
         

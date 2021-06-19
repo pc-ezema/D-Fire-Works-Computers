@@ -26,13 +26,13 @@
           </div>
           <div class="col-lg-6 pt-4 pt-lg-0" data-aos="fade-left" data-aos-delay="200">
             <p style="text-align:justify">
-              <strong>Methods</strong><br/>
+              <strong><span style="font-size:1.4em">Methods</span></strong><br/>
 				We follow a painstaking, transparent, pre-specified approach that include the preparation of a protocol, 
 				a pre-piloted data extraction form and coding schedule. We extract, analyse and synthesise data for use. 
 				Quality checks are also included at all stages of the research process.
             </p>
 			<p style="text-align:justify">
-			<strong>Results</strong><br/>
+			<strong><span style="font-size:1.4em">Results</span></strong><br/>
 			We are sure to give you the best possible results ranging from:</p>
             <ul>
               <li><i class="ri-check-double-line"></i> Time and project management</li>
@@ -40,7 +40,7 @@
               <li><i class="ri-check-double-line"></i> Selecting the software that meets the needs of the project</li>
 			   <li><i class="ri-check-double-line"></i> Involving experts as needed and disseminating the findings to relevant stakeholders.</li>
             </ul>
-			<p><strong>Conclusion</strong></p>
+			<p><strong><span style="font-size:1.4em">Conclusion</span></strong></p>
             <p class="font-italic" style="text-align:justify">
               A complete evaluation comprises - apart from a document review, interviews with target audience to assess the researched curricula respectively -
 			  rigorous methods, which must be used to ensure an objective assessment. D-Fire Works Computers will be fully involved in all your RRD tasks to ensure

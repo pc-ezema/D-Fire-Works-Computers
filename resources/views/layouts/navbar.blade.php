@@ -22,13 +22,7 @@
         <a href="/" class="logo mr-auto">
             <img src="assets/img/dfw.png" alt="D-Fire" class="img-fluid">
             <h1 class="logo mr-auto">
-<<<<<<< HEAD
-                <!-- D-Fire Works Computers -->
-            </h1>
-        </a>
-=======
         </a></h1>
->>>>>>> bd0bd27 (new-files)
         <!-- Uncomment above since we at DFW computers prefer to use an image logo -->
         <!-- <a href="index.html" class="logo mr-auto"><img src="assets/img/dfw.png" alt="" class="img-fluid"></a>-->
 
