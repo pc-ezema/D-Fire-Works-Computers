@@ -65,7 +65,31 @@ class HomePageController extends Controller
         $blogs = Blog::all();
         return view ('blog')->with('blogs' , $blogs);
     }
-
+    public function service_page_gadgets()
+    {
+        return view ('service-page-gadgets');
+    }
+    
+    public function service_page_ITsolutions()
+    {
+        
+        return view ('service-page-ITsolutions');
+    }
+    public function service_page_others()
+    {
+        
+        return view ('service-page-others');
+    }
+    public function service_page_repairs()
+    {
+        
+        return view ('service-page-repairs');
+    }
+    public function service_page_software()
+    {
+        
+        return view ('service-page-software');
+    }
     public function portfolio_details()
     {
         return view('portfoliodetails');

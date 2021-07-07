@@ -21,7 +21,7 @@
 
         <a href="/" class="logo mr-auto">
             <img src="assets/img/dfw.png" alt="D-Fire" class="img-fluid">
-            <h1 class="logo mr-auto">D-Fire Works Computers
+            <h1 class="logo mr-auto">
         </a></h1>
         <!-- Uncomment above since we at DFW computers prefer to use an image logo -->
         <!-- <a href="index.html" class="logo mr-auto"><img src="assets/img/dfw.png" alt="" class="img-fluid"></a>-->
@@ -37,7 +37,7 @@
                 <li class="drop-down"><a href="#">Menu</a>
                     <ul>
                         <li class="active"><a href="/blog"><i class="icofont-pen"></i> Blog</a></li>
-                        <li><a href="/#team"><i class="icofont-phone-circle"></i> Team</a></li>
+                        <li><a href="/#team"><i class="icofont-people"></i> Team</a></li>
                         <li class="drop-down"><a href="#"><i class="icofont-package"></i> Packages</a>
                             <ul>
                                 <li><a href="/#services"><i class="icofont-book"></i> IT Solutions (RRD)</a></li>

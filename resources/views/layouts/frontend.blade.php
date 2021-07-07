@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta content="width=device-width, initial-scale=1.0, shrink-to-fit=no" name="viewport">
 
-    <title>D-Fire Works Computers</title>
+    <title>D-Fireworks Computers</title>
     <meta content="" name="description">
     <meta content="Aliakor .C. Douglas" name="founder">
     <meta content="Odigbo Christian Ndubuisi" name="designer">

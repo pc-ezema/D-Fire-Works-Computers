@@ -18,7 +18,7 @@
         <div class="container">
 
             <div class="section-title">
-                <span>Frequently Asdked Question</span>
+                <span>Frequently Asked Question</span>
                 <h2>FAQ</h2>
                 <p>Stay updated with our lastest information and news.</p>
             </div>
@@ -53,8 +53,8 @@
                         target="_blank">
                         <div class="icon-circle"><i class="icofont-phone"></i></div>
                         <h3>Contact Us</h3>
-                        <p>+ 0511 0000 3322</p>
-                        <p>718 973 3322</p>
+                        <p>+2348076153678 </p>
+                        <p>+2348142313314</p>
                     </a>
                     <h5><a href="#">Call Us</a></h5>
                 </div>
@@ -73,8 +73,8 @@
                         target="_blank">
                         <div class="icon-circle"><i class="icofont-ui-clock"></i></div>
                         <h3>Working Hours</h3>
-                        <p>Monday – Friday 8:30 – 18:00</p>
-                        <p>Saturday 9:00 – 14:00</p>
+                        <p>Monday – Saturday: 8:00 – 18:00</p>
+                        <p>Saturday: 9:00 – 14:00</p>
                     </a>
                     <h5><a href="#">Visit Our Office</a></h5>
                 </div>
