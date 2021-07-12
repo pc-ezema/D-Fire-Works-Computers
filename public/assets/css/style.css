@@ -1825,10 +1825,10 @@ div.widget-area {
   user-select: none;
 }
 .accordion li a.active {
-  color: #EEC344;
+  color: #cc1616;
 }
 .accordion li a.active {
-  color: #EEC344;
+  color: #cc1616;
 }
 a.active:after {
   transform: rotate(45deg);
@@ -1841,8 +1841,8 @@ a.active:after {
 .accordion a:after {
   width: 8px;
   height: 8px;
-  border-right: 1px solid #EEC344;
-  border-bottom: 1px solid #EEC344;
+  border-right: 1px solid #cc1616;
+  border-bottom: 1px solid #cc1616;
   position: absolute;
   right: 5px;
   content: " ";
@@ -1874,7 +1874,7 @@ a.active:after {
 .content-box a {
   text-decoration: none;
   position: relative;
-  color: #EEC344;
+  color: #cc1616;
   transition: 0.3s;
   margin: 0;
   padding: 0;
@@ -1933,7 +1933,7 @@ a.active:after {
 .content-box a {
   text-decoration: none;
   position: relative;
-  color: #EEC344;
+  color: #cc1616;
   transition: 0.3s;
 }
 .middle-box {

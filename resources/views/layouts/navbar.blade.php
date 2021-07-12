@@ -2,7 +2,7 @@
 <div id="topbar" class="d-none d-lg-flex align-items-center fixed-top ">
     <div class="container d-flex">
         <div class="contact-info mr-auto">
-            <i class="icofont-envelope"></i> <a href="mailto:dfwcomputers1@gmail.com">{{ config ('app.email') }}</a>
+            <i class="icofont-envelope"></i> <a href="mailto:{{ config ('app.email') }}">{{ config ('app.email') }}</a>
             <i class="icofont-phone"></i> {{ config ('app.phone_1') }}, {{ config ('app.phone_2') }}
         </div>
         <div class="social-links">
@@ -32,6 +32,7 @@
                 <li><a href="#about">About</a></li>
                 <li><a href="#services">Services</a></li>
                 <li><a href="#portfolio">Portfolio</a></li>
+                <li><a href="https://shop.dfireworks.com.ng">Shop</a></li>
                 <li><a href="/contact">Contact</a></li>
                 <li><a href="/faq">Faq</a></li>
                 <li class="drop-down"><a href="#">Menu</a>

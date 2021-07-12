@@ -16,7 +16,7 @@ return [
     'address' => '10A Oremeji Street, Computer Village Ikeja, Lagos State, Nigeria.',
     'phone_1' => '+2348076153678',
     'phone_2' => '+2348142313314',
-    'email' => 'dfwcomputers1@gmail.com',
+    'email' => 'info@dfireworks.ng',
     'facebook' => 'https://web.facebook.com/Seed-Zone-Limited-105238294962953',
     'twitter' => 'https://twitter.com/seedzoneng',
     'instagram' => 'https://www.instagram.com/seedzoneng/',

@@ -203,7 +203,7 @@
                         <p>We sell our gadgets to you at discounted and affordable prices and make sure that they are 
                             delivered to your doorsteps in real-time and at your request. 
                         </p><br/>
-                        <a href ="#"><p style = "color:red">Shop now...</p></a> 
+                        <a href ="https://shop.dfireworks.com.ng"><p style = "color:red">Shop now...</p></a> 
                     </div>
                 </div>
 

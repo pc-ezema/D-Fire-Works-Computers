@@ -26,6 +26,7 @@
                         <li><i class="bx bx-chevron-right"></i> <a href="/contact">Contact</a></li>
                         <li><i class="bx bx-chevron-right"></i> <a href="#">Terms of service</a></li>
                         <li><i class="bx bx-chevron-right"></i> <a href="#">Privacy policy</a></li>
+                        <li><i class="bx bx-chevron-right"></i> <a href="https://shop.dfireworks.com.ng">Shop</a></li>
                     </ul>
                 </div>
 
