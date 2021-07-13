@@ -19,7 +19,7 @@
 <div class="row content">
           <div class="col-lg-6" data-aos="fade-right" data-aos-delay="100">
             <h2><strong>Other Services</strong></h2>
-            <h3 style = "font-size:1.4em; text-align:justify">other services include Programming, Graphics Design, Web Development Services, Animation Services, 
+            <h3 style = "font-size:1.2em; text-align:justify">other services include Programming, Graphics Design, Web Development Services, Animation Services, 
 			3D Design, Image Editing, Content Creation, Project Management, etc.</h3>
           </div>
   <div class="col-lg-6 pt-4 pt-lg-0" data-aos="fade-left" data-aos-delay="200">

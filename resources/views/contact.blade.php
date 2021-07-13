@@ -93,6 +93,10 @@
                                 data-msg="send a message to us" placeholder="Write a message"></textarea>
                             <div class="validate"></div>
                         </div>
+                        <div class="form-group">                        
+                            {!! NoCaptcha::renderJs() !!}
+                            {!! NoCaptcha::display() !!}
+                        </div>
                         <div class="text-center"><button type="submit">Send Message</button></div>
                     </form>
                 </div>

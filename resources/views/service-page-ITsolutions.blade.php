@@ -21,7 +21,7 @@
 <div class="row content">
           <div class="col-lg-6" data-aos="fade-right" data-aos-delay="100">
             <h2><strong>IT Solutions (RRD)</strong></h2>
-            <h3 style = "font-size:1.4em; text-align:justify;">This brief describes the process and our experience in doing document reviews.
+            <h3 style = "font-size:1.2em; text-align:justify;">This brief describes the process and our experience in doing document reviews.
 			We feel that sharing our experience would benefit researchers embarking on similar projects.</h3>
           </div>
           <div class="col-lg-6 pt-4 pt-lg-0" data-aos="fade-left" data-aos-delay="200">

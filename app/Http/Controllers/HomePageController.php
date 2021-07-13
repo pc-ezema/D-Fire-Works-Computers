@@ -27,7 +27,7 @@ class HomePageController extends Controller
             'email' => 'required',
             'telephone' => 'required',
             'message' => 'required',
-            // 'g-recaptcha-response' => 'required|captcha',
+            'g-recaptcha-response' => 'required|captcha',
         ));
 
         /** Create an instance of the model and save data */
@@ -46,7 +46,7 @@ class HomePageController extends Controller
             'telephone' => request()->telephone,
             'subject' => request()->subject,
             'description' => request()->message,
-            'admin_mail' => 'promiseezema11@gmail.com',
+            'admin_mail' => 'info@dfireworks.com.ng',
             'created_at' => $contact->created_at,
         );
 

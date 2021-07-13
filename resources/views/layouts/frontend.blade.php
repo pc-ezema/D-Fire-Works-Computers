@@ -34,10 +34,13 @@
     <!-- Template Main CSS File -->
     <link href="assets/css/style.css" rel="stylesheet">
 
-    <!-- =======================================================
-  * Template Name: D-Fire Works Computers
-  * Author: Odigbo Christian Ndubuisi
-    ======================================================== -->
+    <script>
+        window.setTimeout(function() {
+            $(".alert-timeout").fadeTo(500, 0).slideUp(1000, function(){
+                $(this).remove(); 
+            });
+        }, 15000);
+    </script>
 </head>
 
 <body>

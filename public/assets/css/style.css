@@ -701,6 +701,7 @@ section {
   height: 64px;
   /* background: #cc1616; */
   background-image: url('../../assets/img/service/service-1.jpg');
+  background-repeat: no-repeat;
   transition: all .3s ease-out 0s;
   display: flex;
   align-items: center;
@@ -714,6 +715,7 @@ section {
   height: 64px;
   /* background: #cc1616; */
   background-image: url('../../assets/img/service/service-2.jpg');
+  background-repeat: no-repeat;
   transition: all .3s ease-out 0s;
   display: flex;
   align-items: center;
@@ -727,6 +729,7 @@ section {
   height: 64px;
   /* background: #cc1616; */
   background-image: url('../../assets/img/service/service-3.jpg');
+  background-repeat: no-repeat;
   transition: all .3s ease-out 0s;
   display: flex;
   align-items: center;
@@ -740,6 +743,7 @@ section {
   height: 64px;
   /* background: #cc1616; */
   background-image: url('../../assets/img/service/service-4.jpg');
+  background-repeat: no-repeat;
   transition: all .3s ease-out 0s;
   display: flex;
   align-items: center;
@@ -753,6 +757,7 @@ section {
   height: 64px;
   /* background: #cc1616; */
   background-image: url('../../assets/img/service/service-5.jpg');
+  background-repeat: no-repeat;
   transition: all .3s ease-out 0s;
   display: flex;
   align-items: center;
@@ -766,6 +771,7 @@ section {
   height: 64px;
   /* background: #cc1616; */
   background-image: url('../../assets/img/service/service-6.jpg');
+  background-repeat: no-repeat;
   transition: all .3s ease-out 0s;
   display: flex;
   align-items: center;
