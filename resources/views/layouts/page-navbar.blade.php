@@ -32,6 +32,7 @@
                 <li><a href="/#about">About</a></li>
                 <li><a href="/#services">Services</a></li>
                 <li><a href="/#portfolio">Portfolio</a></li>
+                <li><a href="#">Shop</a></li>
                 <li><a href="/contact">Contact</a></li>
                 <li><a href="/faq">FAQ</a></li>
                 <li class="drop-down"><a href="#">Menu</a>
@@ -41,7 +42,7 @@
                         <li class="drop-down"><a href="#"><i class="icofont-package"></i> Packages</a>
                             <ul>
                                 <li><a href="/#services"><i class="icofont-book"></i> IT Solutions (RRD)</a></li>
-                                <li><a href="https://shop.dfireworks.com.ng"><i class="icofont-long-drive"></i> Sales & Delivery</a></li>
+                                <li><a href="#"><i class="icofont-long-drive"></i> Sales & Delivery</a></li>
                                 <li><a href="/#services"><i class="icofont-repair"></i> Repairs & Maintenance</a></li>
                                 <li><a href="/#services"><i class="icofont-camera-alt"></i> Installations</a></li>
                                 <li><a href="/#services"><i class="icofont-unlocked"></i> Gadgets Unlock</a></li>

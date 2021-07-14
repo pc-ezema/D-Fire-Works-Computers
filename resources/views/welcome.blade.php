@@ -210,11 +210,11 @@
                 <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4" data-aos="fade-up" data-aos-delay="150">
                     <div class="icon-box">
                         <div class="icon-2"></div>
-                        <h4><a href="https://shop.dfireworks.com.ng">Sales & Delivery</a></h4>
+                        <h4><a href="#">Sales & Delivery</a></h4>
                         <p>We sell our gadgets to you at discounted and affordable prices and make sure that they are
                             delivered to your doorsteps in real-time and at your request.
                         </p><br />
-                        <a href="https://shop.dfireworks.com.ng">
+                        <a href="#">
                             <p style="color:red">Shop now...</p>
                         </a>
                     </div>
