@@ -35,11 +35,11 @@
     <link href="assets/css/style.css" rel="stylesheet">
 
     <script>
-        window.setTimeout(function() {
-            $(".alert-timeout").fadeTo(500, 0).slideUp(1000, function(){
-                $(this).remove(); 
-            });
-        }, 15000);
+    window.setTimeout(function() {
+        $(".alert-timeout").fadeTo(500, 0).slideUp(1000, function() {
+            $(this).remove();
+        });
+    }, 15000);
     </script>
 </head>
 
@@ -75,6 +75,21 @@
 
     <!--SCROLL TOP START-->
     <a href="#" class="back-to-top"><i class="icofont-simple-up"></i></a>
+    <!--Start of Tawk.to Script-->
+    <script type="text/javascript">
+    var Tawk_API = Tawk_API || {},
+        Tawk_LoadStart = new Date();
+    (function() {
+        var s1 = document.createElement("script"),
+            s0 = document.getElementsByTagName("script")[0];
+        s1.async = true;
+        s1.src = 'https://embed.tawk.to/60eea4cb649e0a0a5ccc22b1/1fai37frv';
+        s1.charset = 'UTF-8';
+        s1.setAttribute('crossorigin', '*');
+        s0.parentNode.insertBefore(s1, s0);
+    })();
+    </script>
+    <!--End of Tawk.to Script-->
     <div id="preloader"></div>
 
     <!-- Vendor JS Files -->
